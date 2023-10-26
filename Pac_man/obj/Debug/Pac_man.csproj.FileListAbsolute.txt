@@ -1,0 +1,30 @@
+C:\Users\Sak\Documents\Escritorio\Unimar\Proyectos Programación 2\Pac-man\Pac_man\bin\Debug\Pac_man.exe.config
+C:\Users\Sak\Documents\Escritorio\Unimar\Proyectos Programación 2\Pac-man\Pac_man\bin\Debug\Pac_man.exe
+C:\Users\Sak\Documents\Escritorio\Unimar\Proyectos Programación 2\Pac-man\Pac_man\bin\Debug\Pac_man.pdb
+C:\Users\Sak\Documents\Escritorio\Unimar\Proyectos Programación 2\Pac-man\Pac_man\obj\Debug\Pac_man.csprojResolveAssemblyReference.cache
+C:\Users\Sak\Documents\Escritorio\Unimar\Proyectos Programación 2\Pac-man\Pac_man\obj\Debug\Pac_man.Properties.Resources.resources
+C:\Users\Sak\Documents\Escritorio\Unimar\Proyectos Programación 2\Pac-man\Pac_man\obj\Debug\Pac_man.csproj.GenerateResource.Cache
+C:\Users\Sak\Documents\Escritorio\Unimar\Proyectos Programación 2\Pac-man\Pac_man\obj\Debug\Pac_man.exe
+C:\Users\Sak\Documents\Escritorio\Unimar\Proyectos Programación 2\Pac-man\Pac_man\obj\Debug\Pac_man.pdb
+C:\Users\Sak\Documents\Escritorio\Unimar\Proyectos Programación 2\Pac-man\Pac_man\obj\Debug\Pac_man.VentanaMenu.resources
+C:\Users\Sak\Documents\Escritorio\Unimar\Proyectos Programación 2\Pac-man\Pac_man\obj\Debug\Pac_man.VentanaPrincipal.resources
+C:\Users\Sak\Downloads\Pacman\Pac-man\Pac_man\bin\Debug\Pac_man.exe.config
+C:\Users\Sak\Downloads\Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.exe
+C:\Users\Sak\Downloads\Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.pdb
+C:\Users\Sak\Downloads\Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.csprojResolveAssemblyReference.cache
+C:\Users\Sak\Downloads\Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.VentanaPrincipal.resources
+C:\Users\Sak\Downloads\Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.VentanaMenu.resources
+C:\Users\Sak\Downloads\Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.Properties.Resources.resources
+C:\Users\Sak\Downloads\Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.csproj.GenerateResource.Cache
+C:\Users\Sak\Downloads\Pacman\Pac-man\Pac_man\bin\Debug\Pac_man.exe
+C:\Users\Sak\Downloads\Pacman\Pac-man\Pac_man\bin\Debug\Pac_man.pdb
+C:\Users\Sak\Downloads\Recursos Para el Pacman\Pac-man\Pac_man\bin\Debug\Pac_man.exe.config
+C:\Users\Sak\Downloads\Recursos Para el Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.exe
+C:\Users\Sak\Downloads\Recursos Para el Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.pdb
+C:\Users\Sak\Downloads\Recursos Para el Pacman\Pac-man\Pac_man\bin\Debug\Pac_man.exe
+C:\Users\Sak\Downloads\Recursos Para el Pacman\Pac-man\Pac_man\bin\Debug\Pac_man.pdb
+C:\Users\Sak\Downloads\Recursos Para el Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.csprojResolveAssemblyReference.cache
+C:\Users\Sak\Downloads\Recursos Para el Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.VentanaPrincipal.resources
+C:\Users\Sak\Downloads\Recursos Para el Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.VentanaMenu.resources
+C:\Users\Sak\Downloads\Recursos Para el Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.Properties.Resources.resources
+C:\Users\Sak\Downloads\Recursos Para el Pacman\Pac-man\Pac_man\obj\Debug\Pac_man.csproj.GenerateResource.Cache
